@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyecto_alumnos2/static/css/main.cbe14933.css",
-    "main.js": "/proyecto_alumnos2/static/js/main.a9e93af6.js",
+    "main.js": "/proyecto_alumnos2/static/js/main.37f20b6c.js",
     "static/media/EvelynGallegos.jpg": "/proyecto_alumnos2/static/media/EvelynGallegos.d0321bacc9400a94093d.jpg",
     "static/media/Roman.jpg": "/proyecto_alumnos2/static/media/Roman.ed1c6eedbf92de024b86.jpg",
     "static/media/Adalid Herrera Ruiz_.jpg": "/proyecto_alumnos2/static/media/Adalid Herrera Ruiz_.df9b51d7c2842bf53555.jpg",
@@ -28,18 +28,18 @@
     "static/media/Urielgonzalez.PNG": "/proyecto_alumnos2/static/media/Urielgonzalez.aa9a6fd205c44d7cd0be.PNG",
     "static/media/Elizalde Barboza Diego Efren.jpeg": "/proyecto_alumnos2/static/media/Elizalde Barboza Diego Efren.8a4e419cc0e62ae702e5.jpeg",
     "static/media/hombre.png": "/proyecto_alumnos2/static/media/hombre.2cb823db7cc40aafc1db.png",
+    "static/media/ContrerasVasquez.jpeg": "/proyecto_alumnos2/static/media/ContrerasVasquez.ad90b867b7520dbbe88e.jpeg",
     "static/media/nucleo-icons.eot": "/proyecto_alumnos2/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
     "static/media/nucleo-icons.ttf": "/proyecto_alumnos2/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
     "static/media/logo_new_2022.png": "/proyecto_alumnos2/static/media/logo_new_2022.c47f1c9a15ec04838ed8.png",
     "static/media/jessicontreras.jpg": "/proyecto_alumnos2/static/media/jessicontreras.43a22a6baef9b883ec2a.jpg",
     "static/media/miguelmoranv.jpg": "/proyecto_alumnos2/static/media/miguelmoranv.dc9914d97a38002b8652.jpg",
     "static/media/nucleo-icons.woff": "/proyecto_alumnos2/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
-    "static/media/null.webp": "/proyecto_alumnos2/static/media/null.7a6a6c54279a54d1977c.webp",
     "static/media/nucleo-icons.woff2": "/proyecto_alumnos2/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
     "index.html": "/proyecto_alumnos2/index.html"
   },
   "entrypoints": [
     "static/css/main.cbe14933.css",
-    "static/js/main.a9e93af6.js"
+    "static/js/main.37f20b6c.js"
   ]
 }
